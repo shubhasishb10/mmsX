@@ -8,7 +8,7 @@ import java.util.List;
 @Entity
 public class Role implements Serializable {
     @Serial
-    private static final long serialVersionUID = 501004025808112908L;
+    private static final long serialVersionUID = 501003025808112908L;
     // Role population
 
     @Id
